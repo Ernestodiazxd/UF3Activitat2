@@ -1,0 +1,27 @@
+
+fitxerAtlas.png
+size: 2048,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+LuffyKun
+  rotate: false
+  xy: 2, 184
+  size: 910, 280
+  orig: 910, 280
+  offset: 0, 0
+  index: -1
+badlogic
+  rotate: false
+  xy: 914, 208
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+darksaber
+  rotate: false
+  xy: 2, 2
+  size: 190, 180
+  orig: 190, 180
+  offset: 0, 0
+  index: -1
